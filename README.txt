@@ -1,4 +1,4 @@
-E‚±‚Ì, ƒtƒHƒ‹ƒ_ŒQ‚É‚Â‚¢‚Ä
-	ƒvƒƒWƒFƒNƒg‰‰K 3 —pƒQ[ƒ€§ìƒvƒƒWƒFƒNƒg‚Å‚·B
-	‚±‚ê‚©‚ç, Git Hub ‚ð’Ê‚µ‚Ä, ƒo[ƒWƒ‡ƒ“ŠÇ—‚ð‚µ‚Ä‚¢‚«‚Ü‚·B
-	ƒvƒƒOƒ‰ƒ}[‚Í, Changelog.txt ‚ðŽQÆ‚µ‚Ä‰º‚³‚¢B
+ï»¿ãƒ»ã“ã®, ãƒ•ã‚©ãƒ«ãƒ€ç¾¤ã«ã¤ã„ã¦
+	ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆæ¼”ç¿’ 3 ç”¨ã‚²ãƒ¼ãƒ åˆ¶ä½œãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã§ã™ã€‚
+	ã“ã‚Œã‹ã‚‰, Git Hub ã‚’é€šã—ã¦, ãƒãƒ¼ã‚¸ãƒ§ãƒ³ç®¡ç†ã‚’ã—ã¦ã„ãã¾ã™ã€‚
+	ãƒ—ãƒ­ã‚°ãƒ©ãƒžãƒ¼ã¯, Changelog.txt ã‚’å‚ç…§ã—ã¦ä¸‹ã•ã„ã€‚
