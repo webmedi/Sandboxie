@@ -41,3 +41,19 @@ CapsuleComponent→Shape→Capsule Half Height の値を見る。
 
 記述日 : 2016年06月24日(金) 午前9時51分
 ------------------------------------------------------------------------------
+マップ遷移 :: LevelStreamingVolume を使用して, パーシスタントレベルから
+サブレベルへのマップ遷移を提供する。
+3Dマップ全体に LevelStreamVolume を適用し, 2Dマップから, 3Dマップに侵入
+した瞬間に, 3Dマップを読み込むようにしたが, ゲームのイメージとの違和感が
+あるので, 修正する必要がある。
+
+参考ビデオ :: WTF Is? Volume - Level Streaming in Unreal Engine 4
+参考サイト :: http://historia.co.jp/archives/4153
+			  https://docs.unrealengine.com/latest/JPN/Engine/LevelStreaming/WorldBrowser/index.html
+
+レベル遷移で, 遷移した後に, 2Dカメラに切り替えると, 黒画面になってしまうため
+ThirdPerosonCaracter→イベントグラフ→2D&3D(背後＆前)カメラの切り替え
+ブループリントを, 2Dカメラに切り替えられないように変更した。
+
+記述日 : 2016年06月28日(火) 午前4時49分
+------------------------------------------------------------------------------
